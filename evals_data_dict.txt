@@ -1,0 +1,38 @@
+term: the term the course was offered
+course: The class number.
+    MA 222 = business stats
+    MA 241 = calculus I
+    MA 242 = calculus II
+    MA 243 = calculus III
+    MA 335 = linear & abstract algebra I
+    MA 412 = probability & statistics
+    MA 435 = linear & abstract algebra II
+    MA 441 = math methods for science & engineering
+
+ q1: I took this class to satisfy [1=General Interest, 2=Elective Credit, 3=General Elective Requirement, 4=Minor Requirement, 5=Major Requirement]
+ q2: Expected class grade [1=F, 2=D, 3=C, 4=B, 5=A]
+ q3: Before taking this class my interest in this subject was [1=Very Low, 2=Low, 3=Average, 4=High, 5=Very High]
+ q4: Before taking this class my knowledge in this subject was [1=Very Low, 2=Low, 3=Average, 4=High, 5=Very High]
+ q5: After taking this class my knowledge in this subject is [1=Very Low, 2=Low, 3=Average, 4=High, 5=Very High]
+
+q6-q16: 1=Strongly Disagree, 2=Disagree, 3=Neutral, 4=Agree, 5=Strongly Agree
+
+ q6: My instructor distributed and followed a clear, well-organized course syllabus.
+ q7: My instructor's methods and materials helped me learn.
+ q8: Examinations/assignments reflect materials covered in the class.
+ q9: The required textbook helped me master the material in the course (leave blank if no textbook was required).
+q10: My instructor challenged me to think critically and to express myself effectively.
+q11: My instructor shows an interest in and respect for me as a student.
+q12: My instructor responds to student questions and concerns in a constructive manner.
+q13: My instructor speaks clearly and is easily understood.
+q14: My instructor is well-prepared for class.
+q15: My instructor shows enthusiasm for and interest in the subject matter.
+q16: While it is difficult to compare instructors, especially in different subject areas, how would you rate this instructor on a comparative basis with other instructors?
+
+q17-q19: Free text response
+
+q17: What abilities of the instructor were most helpful in your learning and understanding?
+q18: What areas of this faculty member's performance need improvement?
+q19: Additional comments about this course and/or the instructor.
+
+
